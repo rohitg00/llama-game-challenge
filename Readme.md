@@ -43,7 +43,7 @@ Welcome to this hands-on tutorial on how to use Liblab to generate an SDK for th
 
 2. Open [localhost:8000](http://localhost:8000) in your web browser to access the Llama Game interface. You should see the game loaded successfully.
 
-   ![Game Interface](/screenshots/e8637829-b2e8-4e3b-af34-f85dfde569e3.png)
+   ![Game Interface](screenshots/e8637829-b2e8-4e3b-af34-f85dfde569e3.jpg)
 
 3. Keep the Docker container running as the game needs to be active for the next steps.
 
